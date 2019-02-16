@@ -1,2 +1,2 @@
 # knapsack-problem
-Solution to the "knapsack problem" in Python. Given a list of items and their values and weights, this code finds maximum number of items with the highest total value that can be included in your "knapsack" without exceeding the knapsack's weight limit. 
+A solution to the "knapsack problem" in Python. Given a list of items and their values and weights, this code finds maximum number of items with the highest total value that can be included in your "knapsack" without exceeding the knapsack's weight limit. knapsack.py is the python file, input1.txt and input2.txt are text files representing the lists of items and their weights and values. The program outputs the results in a text file. It is designed to be run from the command line.
